@@ -25,6 +25,16 @@ optional arguments:
                         Model to use: tiny, base, small, medium, large, turbo
 ```
 
+### Via docker
+
+2.1. build image
+> docker build -t cwhisper .
+
+2.2 run cwhisper
+> docker run -v $(pwd):/app/cwhisper -f /app/cwhisper/record1.m4a --model base
+
+
+### Via python in your host machine
 ```
 $ python main.py -f record1.m4a
 or
