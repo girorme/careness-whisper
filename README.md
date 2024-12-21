@@ -2,6 +2,11 @@ Careness Whisper
 ---
 Whisper speech model poc.
 
+<p align="center">
+ <img align="center" src="https://github.com/user-attachments/assets/6f478ecd-cb7e-43b6-a063-d49b645da5cf"/>
+</p>
+
+
 ### Usage
 1. Install deps:
 
