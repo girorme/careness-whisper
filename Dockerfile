@@ -2,7 +2,7 @@
 FROM python:3.8-slim
 
 # Install ffmpeg and other necessary dependencies
-RUN apt-get update && apt-get install -y ffmpeg && apt-get clean
+RUN apt-get update && apt-get install -y ffmpeg
 
 # Set the working directory inside the container
 WORKDIR /app
