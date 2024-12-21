@@ -6,6 +6,8 @@ Whisper speech model poc.
  <img align="center" src="https://github.com/user-attachments/assets/6f478ecd-cb7e-43b6-a063-d49b645da5cf"/>
 </p>
 
+ref: https://github.com/openai/whisper
+
 
 ### Usage
 1. Install deps:
