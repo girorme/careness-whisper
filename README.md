@@ -36,7 +36,7 @@ optional arguments:
 > docker build -t cwhisper .
 
 2.2 run cwhisper
-> docker run -v $(pwd):/app/cwhisper -f /app/cwhisper/record1.m4a --model base
+> docker run -v $(pwd):/app/cwhisper cwhisper -f /app/cwhisper/record1.m4a --model base 
 
 
 ### Via python in your host machine
