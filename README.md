@@ -21,7 +21,7 @@ Audio Transcription Script
 optional arguments:
   -h, --help            show this help message and exit
   -f FILE, --file FILE  Path to the audio file
-  -m MODEL, --model MODEL
+  -m MODEL, --model MODEL (default: base)
                         Model to use: tiny, base, small, medium, large, turbo
 ```
 
